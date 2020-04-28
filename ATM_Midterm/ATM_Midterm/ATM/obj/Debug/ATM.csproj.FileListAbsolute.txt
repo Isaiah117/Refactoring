@@ -1,0 +1,12 @@
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\bin\Debug\ATM.exe.config
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\bin\Debug\ATM.exe
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\bin\Debug\ATM.pdb
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\obj\Debug\ATM.Forms.frmTransactionComplete.resources
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\obj\Debug\ATM.Forms.frmTransactionEntry.resources
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\obj\Debug\ATM.Forms.frmUserAccountEntry.resources
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\obj\Debug\ATM.Forms.frmUserNameAndPin.resources
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\obj\Debug\ATM.exe
+C:\Users\isaia\OneDrive\Desktop\atm-simulation-master\atm-simulation-master\ATM\obj\Debug\ATM.pdb

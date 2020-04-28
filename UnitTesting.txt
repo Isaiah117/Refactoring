@@ -1,0 +1,3 @@
+Unit testing is a method of testing software, where every individual unit of source code, operating 
+procedures, usage procedures and, sets of one or more computer program modules together with 
+associated control data is tested individually to see if they are ready for use.
